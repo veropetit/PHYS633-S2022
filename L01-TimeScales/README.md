@@ -20,7 +20,7 @@ We made order of magnitude estimates of various timescales.
 
 * KH timescale
 * Nuclear timescale
-* Dynamical timescale
+* Dynamical timescale <font color="red">S2022: we did this on Thursday</font>
 
 > In the [textbooks](../textbooks.md):
 > 

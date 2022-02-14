@@ -8,6 +8,8 @@ Slides shown in class:
 
 ## Material covered and references
 
+<font color="red">S2022: we first finished the hydro timescale from Tuesday</font>
+
 We discussed two mathematical concepts that will be very important in this course:
 
 The number of quantities that can be determined or constrained
@@ -33,4 +35,7 @@ the necessary enclosed mass, <img src="https://render.githubusercontent.com/rend
 
 ---
 
-"What-if?" What if we used the enclosed mass at the surface as our boundary condition?
+<font color="red">S2022: we did not finish the calculation of g(r)/g_star -- we will do this and add the curve to the graph on thursday </font>
+
+---
+For you to think about: "What-if?" What if we used the enclosed mass at the surface as our boundary condition?
