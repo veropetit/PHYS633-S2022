@@ -14,7 +14,7 @@ We need to find a relation between two of these quantities. The ideal gas law is
 
 But for know, we can use some useful polytropic equation of state where the pressure only depends on the density to a certain power such that 
 <img src="https://render.githubusercontent.com/render/math?math=
-P\left(r\right)\:=\:K\:\rho\left(r\right)^{^{\frac{^{n+1}}{n}}}">.
+P\left(r\right)\:=\:K\:\rho\left(r\right)^{^{\frac{^{n\!%2B+1}}{n}}}">.
 
 By setting the density <img src="https://render.githubusercontent.com/render/math?math=\rho\left(r\right)\:=\:\rho_c\:\theta\left(r\right)^{^n}">, where theta is a unit-less function that describes the variation of the density as a function of radius, we can transform our equations of structure into the well-known Lane-Emden differential equation for polytrops, the solution of which gives <img src="https://render.githubusercontent.com/render/math?math=\theta\left(\epsilon\right)">, where epsilon is unit-less and related to r.
 
